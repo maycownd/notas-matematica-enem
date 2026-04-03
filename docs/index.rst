@@ -13,6 +13,7 @@ Contents:
 
    getting-started
    commands
+   analyze-datasets-and-ship-reports
 
 
 
